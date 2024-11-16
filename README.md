@@ -21,7 +21,7 @@ This project uses machine learning algorithms to predict customer churn based on
 │   ├── model_training.py
 │   └── evaluation.py
 ├── README.md
-└── requirements.txt
+└── requirements.txt 
 
 ### 📊 Dataset
 The dataset used in this project is the [Telco Customer Churn Dataset](https://www.kaggle.com/blastchar/telco-customer-churn). It contains customer information to predict churn based on various features like contract type, payment method, and tenure.
